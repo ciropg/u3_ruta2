@@ -98,7 +98,7 @@ fun TopicGrid(modifier: Modifier = Modifier) {
         }
     }
 }
-@Preview
+//@Preview
 //@Composable
 //fun TopicCardPreview() {
 //    PracticaTheme {
